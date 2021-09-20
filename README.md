@@ -40,7 +40,7 @@ Download ChromeDriver (https://chromedriver.chromium.org/downloads) for the vers
     
  ### 4. Run the bot:
    ```
-   $ python3 main.py
+   $ python main.py
    ```
  \* In case of occurence of captcha, it has to be solved manually in order to finalize the checkout.
  
