@@ -42,6 +42,9 @@ Download ChromeDriver (https://chromedriver.chromium.org/downloads) for the vers
    ```
    $ python main.py
    ```
+  
+ The program will ask you about the color and the keyword. Based on your response it will try to find item matching these criteria within subpage specified in settings. In case of match it will automatically start checkout process in browser.
+  
  \* In case of occurence of captcha, it has to be solved manually in order to finalize the checkout.
  
  \* The program has been tested in EU region and may not work in other zones.
