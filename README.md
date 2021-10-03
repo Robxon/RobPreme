@@ -1,5 +1,5 @@
 # RobPreme
-A Supreme bot allowing for quick checkout of most coveted items before they sellout.
+A Supreme bot allowing for quick checkout of most coveted items before they sell out.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/90696522/134012744-1752c8e8-b1e9-40a3-98f4-0c1e51b94781.png" alt="Logo"/>
